@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/Scott/Desktop/New Unity Project/Assets/Scenes/easy level.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
